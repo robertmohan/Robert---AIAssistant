@@ -1,0 +1,21 @@
+{
+    "full_name": "Robert Chandra Mohan JAYAPAUL",
+    "name": "Bob",
+    "current_role": "AI Leader, AI Engineer, Salesforce AI Specialist",
+    "location": "Tamil Nadu, India",
+    "email": "robert.chandramohan@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/robert-chandramohan-jayapaul/",
+    "specialties": [
+      "AI Leader",
+      "AI Engineer",
+      "Salesforce AI Specialist"
+    ],
+    "years_experience": 20,
+    "education": [
+      {
+        "degree": "M.C.A and Bsc computer science",
+        "institution": "Coimbatore Institute of Technology",
+        "year": "1992 and 1995"
+      }
+    ]
+  }
