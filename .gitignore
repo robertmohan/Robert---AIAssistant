@@ -120,3 +120,8 @@ Thumbs.db
 *.tfstate
 *.tfstate.backup
 .terraform.lock.hcl
+
+# Environment files
+.env
+.env.local
+.env.production
