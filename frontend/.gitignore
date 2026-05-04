@@ -114,3 +114,7 @@ Thumbs.db
 
 # AWS
 .aws/
+
+.terraform/
+*.tfstate
+*.tfstate.backup
